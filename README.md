@@ -1,2 +1,3 @@
-# homebrew-tap
-Homebrew tap for Alfred
+# Homebrew tap
+
+Homebrew formulae for projects by ArionMiles.
